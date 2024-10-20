@@ -12,6 +12,7 @@ JavaFX UI: User-friendly interface built with JavaFX, allowing for easy navigati
 Getting Started
 To run the Library Management System, follow these steps:
 Clone the Repository: Clone this repository to your local machine using Git:
+
 git clone https://github.com/Ragini-Tiwari/library-management-system.git
 Set Up JavaFX SDK: Download and install the JavaFX SDK from the OpenJFX website.
 Configure Project: Open the project in your preferred Java IDE (such as IntelliJ IDEA, Eclipse, or NetBeans).
