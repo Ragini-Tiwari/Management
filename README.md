@@ -10,6 +10,7 @@ SQLite Database: Utilizes SQLite for data storage, providing a lightweight and f
 JavaFX UI: User-friendly interface built with JavaFX, allowing for easy navigation and interaction.
 
 Getting Started
+
 To run the Library Management System, follow these steps:
 Clone the Repository: Clone this repository to your local machine using Git:
 
